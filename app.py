@@ -1,10 +1,9 @@
-# birth_year = input('Birth year: ')
-# print(type(birth_year))
-# current_year = 2022
-# age = current_year - int(birth_year)
-# print(type(age))
-# print(age)
+students_count = 1000
+rating = 4.99
+is_published = True
+course_name = "Python Programming"
 
-weight_lbs = input('What is your weight in pounds? ')
-weight_kg = float(weight_lbs) * 0.45
-print(int(weight_kg))
+print(type(students_count))
+print(type(rating))
+print(type(is_published))
+print(type(course_name))
